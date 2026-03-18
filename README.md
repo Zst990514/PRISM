@@ -35,7 +35,7 @@ We recommend using a standard Linux environment with the required build tools.
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/PRISM.git
+git clone https://github.com/Zst990514/PRISM.git
 cd PRISM
 
 # Ensure dependencies are met
