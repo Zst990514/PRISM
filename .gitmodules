@@ -6,4 +6,4 @@
 	url = https://github.com/HewlettPackard/cacti.git
 [submodule "ramulator"]
 	path = ramulator
-	url = https://github.com/CMU-SAFARI/ramulator.git
+	url = https://github.com/CMU-SAFARI/ramulator
