@@ -4,30 +4,11 @@ This is the official software implementation of the paper, PRISM: A Locality-Awa
 
 ## Overview
 
-### Background
-
 ![Figure 1](figure/fig1_Background.png)
-*> Figure 1: Background of Triangle Counting.*
-
-### Challenges
-
 ![Figure 2](figure/fig2_Challenges.png)
-*> Figure 2: Key challenges in NMP-based Triangle Counting: Locality, Intersection, and Communication.*
-
-### CAS Format
-
 ![Figure 3](figure/fig3_CAS%20format.png)
-*> Figure 3: Connectivity-Aware Storage (CAS) format.*
-
-### Method
-
 ![Figure 4](figure/fig4_Method.png)
-*> Figure 4: The PRISM architecture with heterogeneous processing engines.*
-
-### Performance
-
 ![Figure 5](figure/fig5_Performance.png)
-*> Figure 5: Overall performance and memory traffic reduction.*
 
 ## Code Structure
 
