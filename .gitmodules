@@ -1,3 +1,6 @@
 [submodule "cache_sim"]
 	path = cache_sim
 	url = https://github.com/fuvty/cache_sim
+[submodule "cacti"]
+	path = cacti
+	url = https://github.com/HewlettPackard/cacti.git
