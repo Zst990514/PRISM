@@ -83,7 +83,7 @@ make
 
 First, you need to preprocess the raw graph data. PRISM requires input graphs to be in a specific binary CSR format with **degree-based orientation**.
 
-The `preprocess` tool (built in `CAM_simulator/build`) takes a raw edge list, relabels nodes by degree (Hubs get smaller IDs), directs edges from low-ID to high-ID to form a DAG, and outputs the binary files.
+The `preprocess` tool (built in `CAM_simulator/build`) takes a raw edge list, relabels nodes by degree (Hubs get smaller IDs), directs edges from high-ID to low-ID to form a DAG, and outputs the binary files.
 
 ```bash
 # Example: converting 'astro' dataset
