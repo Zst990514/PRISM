@@ -42,8 +42,6 @@ output/
 
 # Large Datasets
 data/
-*.bin
-*.txt
 *.graph
 
 # OS generated files
