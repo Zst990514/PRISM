@@ -1,6 +1,6 @@
 # PRISM-Scalable Triangle Counting 
 
-This is the official software implementation of the paper, PRISM: A Locality-Aware Near-Memory Processing Framework for Scalable Triangle Counting
+This is the official implementation of the paper, PRISM: A Locality-Aware Near-Memory Processing Framework for Scalable Triangle Counting
 
 ## Overview
 
